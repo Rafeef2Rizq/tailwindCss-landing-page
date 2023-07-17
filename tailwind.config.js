@@ -9,10 +9,7 @@ module.exports = {
       xl: '1440px',
     },
     
-    backgroundImage: {
-      'hero-pattern': "url('img/bg-simplify-section-mobile.svg')",
-      'hero-pattern-mobile': "url('img/bg-simplify-section-mobile.svg')",
-    },
+
     extend: { colors: {
       brightRed: 'hsl(12, 88%, 59%)',
       brightRedLight: 'hsl(12, 88%, 69%)',
