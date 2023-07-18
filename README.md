@@ -7,3 +7,4 @@ this UI from  Frontend Mentor website
 https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5
 good website with tailwind css
 https://www.creative-tim.com/learning-lab/flowbite/dropdowns/soft-ui-dashboard/
+https://flowbite.com/docs/
